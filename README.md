@@ -13,4 +13,5 @@ The race condition part is a bit interesting, I believe (but not sure) that a re
 
 If the exploit succeeds, a SYSTEM shell will be spawned
 
-<img width="2350" height="1226" alt="RoguePlanet" src="https://github.com/user-attachments/assets/2d50fadd-ceb2-4289-a432-cc05fbb4eb40" />
+<img width="2350" height="1226" alt="RoguePlanet" src="https://github.com/user-attachments/assets/a6bc9d3f-0d9e-472a-964f-ddd1cc0c7079" />
+
